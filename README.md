@@ -5,4 +5,4 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thealidev&" alt="thealidev" /></p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=thealidev&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=thealidev&theme=flat&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
