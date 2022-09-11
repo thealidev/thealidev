@@ -34,8 +34,10 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/thealidev",
-  // linkedin: "https://www.linkedin.com/in/saadpasta/",
   gmail: "thealidevmail@gmail.com",
+  twitter: "https://twitter.com/TheAliDevUser",
+  facebook: "https://www.facebook.com/alidevcnews",
+  // linkedin: "https://www.linkedin.com/in/saadpasta/",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
