@@ -3,10 +3,10 @@ const https = require("https");
 process = require("process");
 require("dotenv").config();
 
-const GITHUB_TOKEN = process.env.REACT_APP_GITHUB_TOKEN;
-const GITHUB_USERNAME = process.env.GITHUB_USERNAME;
-const USE_GITHUB_DATA = process.env.USE_GITHUB_DATA;
-const MEDIUM_USERNAME = process.env.MEDIUM_USERNAME;
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_USERNAME = "thealidev";
+const USE_GITHUB_DATA = "true";
+const MEDIUM_USERNAME = "thealidev";
 
 const ERR = {
   noUserName:
@@ -80,7 +80,7 @@ if (USE_GITHUB_DATA === "true") {
       data += d;
     });
     res.on("end", () => {
-      fs.writeFile("./public/profile.json", data, function (err) {
+      fs.writeFile("./public/profile.json", data, function(err) {
         if (err) return console.log(err);
         console.log("saved file to public/profile.json");
       });
@@ -116,7 +116,7 @@ if (MEDIUM_USERNAME !== undefined) {
       mediumData += d;
     });
     res.on("end", () => {
-      fs.writeFile("./public/blogs.json", mediumData, function (err) {
+      fs.writeFile("./public/blogs.json", mediumData, function(err) {
         if (err) return console.log(err);
         console.log("saved file to public/blogs.json");
       });
