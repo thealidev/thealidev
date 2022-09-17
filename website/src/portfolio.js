@@ -92,6 +92,14 @@ const educationInfo = {
       duration: "March 2019 - August 2022",
       desc: "Gained 560 / 1100 Numbers",
       descBullets: [""]
+    },
+    {
+      schoolName: "Swedish Collage",
+      logo: require("./assets/images/sgc-logo.jpg"),
+      subHeader: "Deploma",
+      duration: "October 2022 - October 2025",
+      desc: "Currently Studing",
+      descBullets: [""]
     }
   ]
 };
