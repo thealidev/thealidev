@@ -1,9 +1,12 @@
 {
   "name": "thealidev",
   "version": "1.0.0",
+  "homepage": "https://thealidev.xyz"
   "description": "<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=thealidev&show_icons=true&locale=en&layout=compact\" alt=\"thealidev\" /></p>",
   "main": "index.js",
   "scripts": {
+    "predeploy": "cd website && npm install && npm run build",
+    "deploy": "gh-pages -d website/build"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
