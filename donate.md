@@ -13,7 +13,7 @@ bc1qctqsu9ahdaa8c6e7cc5xnrxtf48qgzeaz865gh
 TH6mzsMJ33r56GQs6v3RDmhRkaWxunnp8A
 # Local Bank Transfer (Pakistan Only)
 ## United Bank Limited (UBL)
-PK43UNIL0109000295548539
+0372295548539
 ## Easypaisa
 03440708494
 # Other (Contact For Donation)
