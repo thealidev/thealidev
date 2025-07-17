@@ -1,7 +1,5 @@
 # Hi :wave::business_suit_levitating:  
-- I Am The Ali Dev  
-- You Can Check My Website For More Info  
--  Visit `thealidev.site` Now  
+- I Am `The Ali Dev`  
 - Thanks  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thealidev&show_icons=true&locale=en&layout=compact" alt="thealidev" /></p>
    
