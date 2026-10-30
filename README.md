@@ -1,18 +1,11 @@
-<div align="center">
-
 # Hi, I'm Ali 👋
+
 ### Systems, Deep Learning & Distributed Infrastructure Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/thealidev?label=Follow&style=social)](https://github.com/thealidev)
-[![Organization](https://img.shields.io/badge/Org-RMAA%20Holdings-purple?style=flat-square)](https://github.com/RMAAPK)
-[![Live Swarm Proof](https://img.shields.io/badge/Swarm%20Runner-Render%20Cloud-46E3B7?style=flat-square)](https://upaas-trainer.onrender.com/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-rmaapk-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/rmaapk)
-
-<br/>
+**Founder & Engineer @ [RMAA Holdings](https://github.com/RMAAPK)** • Rawalpindi, Pakistan  
+[🌐 Live Swarm Proof](https://upaas-trainer.onrender.com/) • [🤗 Hugging Face](https://huggingface.co/rmaapk) • [🐦 X / Twitter](https://twitter.com/TheAliDev)
 
 > *"Turning compute constraints into asymmetric architectural advantages."*
-
-</div>
 
 ---
 
@@ -48,8 +41,4 @@ Platforms     : AWS Graviton, Render Cloud, Android NDK, Edge Silicon
 
 ---
 
-<div align="center">
-
-Made with relentless curiosity & deep engineering.
-
-</div>
+<p align="center">Made with relentless curiosity & deep engineering.</p>
